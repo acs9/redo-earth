@@ -140,10 +140,10 @@ body {
   background-color: #f7ed4a !important;
 }
 .bg-info {
-  background-color: #82786e !important;
+  background-color: #879a9f !important;
 }
 .bg-warning {
-  background-color: #879a9f !important;
+  background-color: #b2ccd2 !important;
 }
 .bg-danger {
   background-color: #33b925 !important;
@@ -190,8 +190,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #82786e !important;
-  border-color: #82786e !important;
+  background-color: #879a9f !important;
+  border-color: #879a9f !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
@@ -199,14 +199,14 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #59524b !important;
-  border-color: #59524b !important;
+  background-color: #617479 !important;
+  border-color: #617479 !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #59524b !important;
-  border-color: #59524b !important;
+  background-color: #617479 !important;
+  border-color: #617479 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -230,8 +230,8 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #879a9f !important;
-  border-color: #879a9f !important;
+  background-color: #b2ccd2 !important;
+  border-color: #b2ccd2 !important;
   color: #ffffff !important;
 }
 .btn-warning:hover,
@@ -239,19 +239,19 @@ body {
 .btn-warning.focus,
 .btn-warning.active {
   color: #ffffff !important;
-  background-color: #617479 !important;
-  border-color: #617479 !important;
+  background-color: #82acb6 !important;
+  border-color: #82acb6 !important;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #617479 !important;
-  border-color: #617479 !important;
+  background-color: #82acb6 !important;
+  border-color: #82acb6 !important;
 }
 .btn-danger,
 .btn-danger:active {
   background-color: #33b925 !important;
-  border-color: #FFF !important;
+  border-color: #33b925 !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -354,22 +354,22 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #4b453f;
-  color: #4b453f;
+  border-color: #55666b;
+  color: #55666b;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #82786e;
-  border-color: #82786e;
+  background-color: #879a9f;
+  border-color: #879a9f;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #82786e !important;
-  border-color: #82786e !important;
+  background-color: #879a9f !important;
+  border-color: #879a9f !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -394,22 +394,22 @@ body {
 .btn-warning-outline,
 .btn-warning-outline:active {
   background: none;
-  border-color: #55666b;
-  color: #55666b;
+  border-color: #72a1ac;
+  color: #72a1ac;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #879a9f;
-  border-color: #879a9f;
+  background-color: #b2ccd2;
+  border-color: #b2ccd2;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #879a9f !important;
-  border-color: #879a9f !important;
+  background-color: #b2ccd2 !important;
+  border-color: #b2ccd2 !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -469,16 +469,16 @@ body {
   color: #376b34 !important;
 }
 .text-secondary {
-  color: #3cb371 !important;
+  color: #379b31 !important;
 }
 .text-success {
   color: #f7ed4a !important;
 }
 .text-info {
-  color: #82786e !important;
+  color: #879a9f !important;
 }
 .text-warning {
-  color: #879a9f !important;
+  color: #b2ccd2 !important;
 }
 .text-danger {
   color: #33b925 !important;
@@ -503,11 +503,11 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #4b453f !important;
+  color: #55666b !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
-  color: #55666b !important;
+  color: #72a1ac !important;
 }
 a.text-danger:hover,
 a.text-danger:focus {
@@ -525,10 +525,10 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #82786e;
+  background-color: #879a9f;
 }
 .alert-warning {
-  background-color: #879a9f;
+  background-color: #b2ccd2;
 }
 .alert-danger {
   background-color: #33b925;
@@ -579,11 +579,11 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #beb8b2;
+  color: #ced6d8;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ced6d8;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -1176,7 +1176,7 @@ pre {
     display: none;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1023px) {
   .navbar-toggleable-md .navbar-nav .dropdown-menu {
     position: static;
     float: none;
@@ -1186,7 +1186,7 @@ pre {
     padding-left: 0;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1024px) {
   .navbar-toggleable-md {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1662,6 +1662,11 @@ body {
 .cid-rvz8bHTbJl .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 992px) {
+  .cid-rvz8bHTbJl .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-rvz8bHTbJl .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1828,7 +1833,7 @@ body {
 .cid-rvz8rGZcYn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #3cb371;
+  background-color: #073b4c;
 }
 .cid-rvz8rGZcYn .mbr-iconfont {
   font-size: 48px;
@@ -2320,7 +2325,7 @@ body {
 .cid-rvVu2K6fdn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #3cb371;
+  background-color: #376b34;
 }
 .cid-rvVu2K6fdn .mbr-iconfont {
   font-size: 48px;
